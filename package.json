@@ -1,6 +1,6 @@
 {
   "name": "write-file-action",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A GitHub action to write a file.",
   "main": "index.js",
   "scripts": {
